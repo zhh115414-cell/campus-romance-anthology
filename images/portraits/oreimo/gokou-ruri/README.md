@@ -1,9 +1,9 @@
 # 五更瑠璃 · 常规立绘
 
 - 当前文件：[default.png](default.png)。
-- 用户选定原图：`hand-fixed.png`。
-- 尺寸：1037 × 1516；大小：1,380,092 字节。
-- SHA-256：`32b99fd9543797a976a8b48758c97df6239de1cca98b634d800019cae3465214`。
+- 用户选定原图：`hand-fixed-v2.png`。
+- 尺寸：1037 × 1516；大小：1,565,886 字节。
+- SHA-256：`efe08d8f859b81cd01ff0f24ffac777f234ff050d64024408d8b7c9c2a7144f8`。
 - PNG 模型记录：未知。
 - 可读取的生成参数：seed 未知；steps 未知；scale 未知；cfg_rescale 未知；sampler 未知；noise_schedule 未知。
 - 原图字节及内嵌数据完整保留，没有裁切、缩放、抠图或重新编码。
