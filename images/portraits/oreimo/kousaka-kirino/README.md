@@ -1,9 +1,9 @@
 # 高坂桐乃 · 常规立绘
 
 - 当前文件：[default.png](default.png)。
-- 用户选定原图：`hand-waist-fixed.png`。
-- 尺寸：1037 × 1516；大小：1,656,692 字节。
-- SHA-256：`1ae9438fdfc4a946a8b94d541bc40344cbddb0f7392925451ed5b47f517f8bf1`。
+- 用户选定原图：`edited-v2-four-fingers.png`。
+- 尺寸：1037 × 1516；大小：1,680,080 字节。
+- SHA-256：`cf7230beddb59eb85013702ad95e845fa437531375e43eda3dbe0640e5622194`。
 - PNG 模型记录：未知。
 - 可读取的生成参数：seed 未知；steps 未知；scale 未知；cfg_rescale 未知；sampler 未知；noise_schedule 未知。
 - 原图字节及内嵌数据完整保留，没有裁切、缩放、抠图或重新编码。
