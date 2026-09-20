@@ -1,9 +1,9 @@
 # 冰堂美智留 · 常规立绘
 
 - 当前文件：[default.png](default.png)。
-- 用户选定原图：`218-michiru-natural-nape-hand-v4-s2321143659-20260913.png`。
-- 尺寸：1122 × 1402；大小：1,580,205 字节。
-- SHA-256：`a89ce5dc52c9a11af441f2217114f31202f851b4915e1cf355aadf9950ef496a`。
+- 用户选定原图：`edited-v2.png`。
+- 尺寸：1037 × 1516；大小：1,393,627 字节。
+- SHA-256：`4c8af89b86e002f6c9a53d864bd4172949764595dbef2db632e25da4128dba64`。
 - PNG 模型记录：未知。
 - 可读取的生成参数：seed 未知；steps 未知；scale 未知；cfg_rescale 未知；sampler 未知；noise_schedule 未知。
 - 原图字节及内嵌数据完整保留，没有裁切、缩放、抠图或重新编码。
