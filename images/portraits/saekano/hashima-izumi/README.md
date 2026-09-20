@@ -1,9 +1,9 @@
 # 波岛出海 · 常规立绘
 
 - 当前文件：[default.png](default.png)。
-- 用户选定原图：`219-izumi-separated-arm-fitted-waist-v2-s1199991999-20260914.png`。
-- 尺寸：1037 × 1517；大小：1,666,137 字节。
-- SHA-256：`1d535f43c5ef01a1765132c5517558ec2d4da7b87d50cb0ee12f83002fcd13d5`。
+- 用户选定原图：`edited-v1.png`。
+- 尺寸：1037 × 1516；大小：1,262,862 字节。
+- SHA-256：`50c8098017f2152ccbd59d125f0d65e9194bbfa0f10d088614512cde0643ed07`。
 - PNG 模型记录：未知。
 - 可读取的生成参数：seed 未知；steps 未知；scale 未知；cfg_rescale 未知；sampler 未知；noise_schedule 未知。
 - 原图字节及内嵌数据完整保留，没有裁切、缩放、抠图或重新编码。
